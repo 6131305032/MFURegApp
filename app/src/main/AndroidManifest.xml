@@ -28,7 +28,8 @@
             android:name=".ScrollingActivity"
             android:label="@string/title_activity_scrolling"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name=".MainActivity"></activity>
+        <activity android:name=".MainActivity" />
+        <activity android:name=".Webview"></activity>
     </application>
 
 </manifest>
